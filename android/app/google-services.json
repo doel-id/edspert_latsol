@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1021273311785",
+    "project_id": "edspert-latsol-97520",
+    "storage_bucket": "edspert-latsol-97520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021273311785:android:38b3a86acd24a631972a38",
+        "android_client_info": {
+          "package_name": "com.edspert.latsol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021273311785-mt4esaiv4scuiusccfek5r42atohgvk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFGkvqHKwEmNwG6hTqaKHsNqqkgTs0NKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021273311785-mt4esaiv4scuiusccfek5r42atohgvk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
